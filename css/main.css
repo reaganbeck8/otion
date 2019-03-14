@@ -11,6 +11,8 @@
 }
 nav {
     position: fixed !important;
+    left: 0px !important;
+    right: 0px !important;
 }
 #navitem:hover {
     color: black !important;
